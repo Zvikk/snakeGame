@@ -1,0 +1,1 @@
+{"version":3,"sources":["utils/def.scss"],"names":[],"mappings":"AAAA;EACI,eAAe;EACf,cAAc;EACd,cAAc,EAAA","file":"main.css","sourcesContent":["html {\n    font-size: 16px;\n    line-height: 1;\n    color: #ffffff;\n}"]}
